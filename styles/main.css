@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-image: url('linedpaper.png');
+    width: 600px;
+    margin: 0 auto;
+    padding: 0;
+    font-family: courier, monospace;
+  }
+  
